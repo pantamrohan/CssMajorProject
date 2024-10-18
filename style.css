@@ -504,7 +504,7 @@ padding-top: 2vh;
     font-size: 6vh;
     position: absolute;
     top: 9%;
-    right: 30%;
+    right: 19%;
 }
 #footer #thing h1::before{
     content: "photography studio" ;
@@ -513,7 +513,7 @@ padding-top: 2vh;
     font-size: 6vh;
     position: absolute;
     bottom: -4%;
-    right: 30%;
+    right: 20%;
 }
 #social{
     text-align: end;
